@@ -1,0 +1,9 @@
+<person>
+  <name>Alice</name>
+  <age>25</age>
+  <balanceAmount>2000.5</balanceAmount>
+  <interests>
+    <interest>Reading</interest>
+    <interest>Coding</interest>
+  </interests>
+</person>
